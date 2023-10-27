@@ -1,0 +1,162 @@
+2023-10-15/23:55:10		Start of Training
+2023-10-15/23:55:10		Unsuccessful End of Training
+2023-10-15/23:57:55		Start of Training
+2023-10-15/23:57:55		Unsuccessful End of Training
+2023-10-15/23:59:06		Start of Training
+2023-10-15/23:59:27		Unsuccessful End of Training
+2023-10-16/00:01:31		Start of Training
+2023-10-16/00:01:52		Unsuccessful End of Training
+2023-10-16/00:03:30		Start of Training
+2023-10-16/00:03:52		Unsuccessful End of Training
+2023-10-16/00:09:48		Start of Training
+2023-10-16/00:09:48		Unsuccessful End of Training
+2023-10-16/00:10:35		Start of Training
+2023-10-16/00:10:35		Unsuccessful End of Training
+2023-10-16/00:11:57		Start of Training
+2023-10-16/00:12:19		Entered the separate_label_feature method of the Preprocessor class
+2023-10-16/00:12:19		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-16/00:12:19		Entered the elbow_plot method of the KMeansClustering class
+2023-10-16/00:12:19		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input X contains NaN.
+KMeans does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2023-10-16/00:12:19		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2023-10-16/00:12:19		Unsuccessful End of Training
+2023-10-27/15:50:57		Start of Training
+2023-10-27/15:51:18		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/15:51:18		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/15:51:18		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/15:51:18		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input X contains NaN.
+KMeans does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2023-10-27/15:51:18		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/15:51:18		Unsuccessful End of Training
+2023-10-27/15:59:47		Start of Training
+2023-10-27/15:59:59		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/15:59:59		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/15:59:59		Unsuccessful End of Training
+2023-10-27/16:03:25		Start of Training
+2023-10-27/16:03:37		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/16:03:37		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/16:03:37		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/16:03:37		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input X contains NaN.
+KMeans does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2023-10-27/16:03:37		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/16:03:37		Unsuccessful End of Training
+2023-10-27/16:07:39		Start of Training
+2023-10-27/16:07:56		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/16:07:56		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/16:07:56		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/16:07:56		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input X contains NaN.
+KMeans does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2023-10-27/16:07:56		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/16:07:56		Unsuccessful End of Training
+2023-10-27/16:10:52		Start of Training
+2023-10-27/16:11:07		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/16:11:07		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/16:11:07		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/16:11:07		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input X contains NaN.
+KMeans does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2023-10-27/16:11:07		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/16:11:07		Unsuccessful End of Training
+2023-10-27/16:13:08		Start of Training
+2023-10-27/16:13:37		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/16:13:37		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/16:13:37		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/16:13:37		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input X contains NaN.
+KMeans does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2023-10-27/16:13:37		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/16:13:37		Unsuccessful End of Training
+2023-10-27/16:34:42		Start of Training
+2023-10-27/16:34:58		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/16:34:58		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/16:34:58		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/16:34:58		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input X contains NaN.
+KMeans does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2023-10-27/16:34:58		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/16:34:58		Unsuccessful End of Training
+2023-10-27/16:53:09		Start of Training
+2023-10-27/16:53:25		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/16:53:25		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/16:53:25		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/16:54:19		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/16:54:19		Entered the create_clusters method of the KMeansClustering class
+2023-10-27/16:54:21		Entered the save_model method of the File_Operation class
+2023-10-27/16:54:22		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-10-27/16:54:22		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2023-10-27/16:54:22		Entered the get_best_model method of the Model_Finder class
+2023-10-27/16:54:22		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/16:54:22		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  Invalid parameter 'normalize' for estimator LinearRegression(). Valid parameters are: ['copy_X', 'fit_intercept', 'n_jobs', 'positive'].
+2023-10-27/16:54:22		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/16:54:22		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2023-10-27/16:54:22		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2023-10-27/16:54:22		Unsuccessful End of Training
+2023-10-27/16:56:03		Start of Training
+2023-10-27/16:56:20		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/16:56:20		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/16:56:20		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/16:57:19		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/16:57:19		Entered the create_clusters method of the KMeansClustering class
+2023-10-27/16:57:23		Entered the save_model method of the File_Operation class
+2023-10-27/16:57:23		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-10-27/16:57:23		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2023-10-27/16:57:23		Entered the get_best_model method of the Model_Finder class
+2023-10-27/16:57:23		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/16:57:26		Exception occured in get_best_params_for_linearReg method of the Model_Finder class. Exception message:  'normalize'
+2023-10-27/16:57:26		LinearReg Parameter tuning  failed. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/16:57:26		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2023-10-27/16:57:26		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2023-10-27/16:57:26		Unsuccessful End of Training
+2023-10-27/16:58:39		Start of Training
+2023-10-27/16:58:55		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/16:58:55		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/16:58:55		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/16:59:41		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/16:59:41		Entered the create_clusters method of the KMeansClustering class
+2023-10-27/16:59:44		Entered the save_model method of the File_Operation class
+2023-10-27/16:59:44		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-10-27/16:59:44		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2023-10-27/16:59:44		Entered the get_best_model method of the Model_Finder class
+2023-10-27/16:59:44		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/16:59:47		LinearRegression best params: {'copy_X': True, 'fit_intercept': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/16:59:47		Entered the RandomForestReg method of the Model_Finder class
+2023-10-27/17:04:20		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 4, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-10-27/17:04:21		Entered the RandomForestReg method of the Model_Finder class
+2023-10-27/18:09:07		XGB reg best params: {'learning_rate': 0.3, 'loss': 'squared_error', 'max_depth': 8, 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-10-27/18:09:07		Exception occured in get_best_model method of the Model_Finder class. Exception message:  This GradientBoostingRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2023-10-27/18:09:07		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2023-10-27/18:09:07		Unsuccessful End of Training
+2023-10-27/20:08:15		Start of Training
+2023-10-27/20:08:37		Entered the separate_label_feature method of the Preprocessor class
+2023-10-27/20:08:37		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2023-10-27/20:08:37		Entered the elbow_plot method of the KMeansClustering class
+2023-10-27/20:09:21		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2023-10-27/20:09:21		Entered the create_clusters method of the KMeansClustering class
+2023-10-27/20:09:24		Entered the save_model method of the File_Operation class
+2023-10-27/20:09:24		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2023-10-27/20:09:24		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2023-10-27/20:09:24		Entered the get_best_model method of the Model_Finder class
+2023-10-27/20:09:24		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/20:09:27		LinearRegression best params: {'copy_X': True, 'fit_intercept': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/20:09:27		Entered the RandomForestReg method of the Model_Finder class
+2023-10-27/20:15:26		RandomForestReg best params: {'bootstrap': False, 'max_features': 'sqrt', 'min_samples_split': 4, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-10-27/20:15:27		Entered the RandomForestReg method of the Model_Finder class
+2023-10-27/20:45:27		XGB reg best params: {'learning_rate': 0.3, 'loss': 'squared_error', 'max_depth': 8, 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-10-27/20:45:27		Entered the save_model method of the File_Operation class
+2023-10-27/20:45:27		Model File LinearRegression1 saved. Exited the save_model method of the Model_Finder class
+2023-10-27/20:45:27		Entered the get_best_model method of the Model_Finder class
+2023-10-27/20:45:27		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/20:45:28		LinearRegression best params: {'copy_X': True, 'fit_intercept': True}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/20:45:28		Entered the RandomForestReg method of the Model_Finder class
+2023-10-27/20:48:27		RandomForestReg best params: {'bootstrap': False, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-10-27/20:48:27		Entered the RandomForestReg method of the Model_Finder class
+2023-10-27/21:05:53		XGB reg best params: {'learning_rate': 0.3, 'loss': 'squared_error', 'max_depth': 8, 'min_samples_split': 8, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-10-27/21:05:53		Entered the save_model method of the File_Operation class
+2023-10-27/21:05:53		Model File LinearRegression0 saved. Exited the save_model method of the Model_Finder class
+2023-10-27/21:05:53		Entered the get_best_model method of the Model_Finder class
+2023-10-27/21:05:53		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/21:05:55		LinearRegression best params: {'copy_X': True, 'fit_intercept': True}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2023-10-27/21:05:55		Entered the RandomForestReg method of the Model_Finder class
+2023-10-27/21:10:17		RandomForestReg best params: {'bootstrap': False, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-10-27/21:10:17		Entered the RandomForestReg method of the Model_Finder class
+2023-10-27/21:50:33		XGB reg best params: {'learning_rate': 0.3, 'loss': 'squared_error', 'max_depth': 8, 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2023-10-27/21:50:33		Entered the save_model method of the File_Operation class
+2023-10-27/21:50:33		Model File LinearRegression2 saved. Exited the save_model method of the Model_Finder class
+2023-10-27/21:50:33		Successful End of Training

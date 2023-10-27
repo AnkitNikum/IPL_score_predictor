@@ -1,0 +1,40 @@
+2023-10-27/22:07:41		Start of Prediction
+2023-10-27/22:07:41		Error occured while running the prediction!! Error:: __init__() missing 2 required positional arguments: 'file_object' and 'logger_object'
+2023-10-27/22:08:33		Start of Prediction
+2023-10-27/22:08:33		Error occured while running the prediction!! Error:: 0
+2023-10-27/22:09:50		Start of Prediction
+2023-10-27/22:09:50		Error occured while running the prediction!! Error:: 0
+2023-10-27/22:12:07		Start of Prediction
+2023-10-27/22:12:07		Error occured while running the prediction!! Error:: 0
+2023-10-27/22:14:03		Start of Prediction
+2023-10-27/22:14:05		Entered the load_model method of the File_Operation class
+2023-10-27/22:14:05		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-10-27/22:14:05		Entered the find_correct_model_file method of the File_Operation class
+2023-10-27/22:14:05		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-27/22:14:05		Entered the load_model method of the File_Operation class
+2023-10-27/22:14:05		Model File LinearRegression1 loaded. Exited the load_model method of the Model_Finder class
+2023-10-27/22:14:05		Entered the find_correct_model_file method of the File_Operation class
+2023-10-27/22:14:05		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-27/22:14:05		Entered the load_model method of the File_Operation class
+2023-10-27/22:14:05		Model File LinearRegression0 loaded. Exited the load_model method of the Model_Finder class
+2023-10-27/22:14:05		Entered the find_correct_model_file method of the File_Operation class
+2023-10-27/22:14:05		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-27/22:14:05		Entered the load_model method of the File_Operation class
+2023-10-27/22:14:05		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2023-10-27/22:14:05		End of Prediction
+2023-10-27/22:19:04		Start of Prediction
+2023-10-27/22:19:06		Entered the load_model method of the File_Operation class
+2023-10-27/22:19:06		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-10-27/22:19:06		Entered the find_correct_model_file method of the File_Operation class
+2023-10-27/22:19:06		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-27/22:19:06		Entered the load_model method of the File_Operation class
+2023-10-27/22:19:06		Model File LinearRegression1 loaded. Exited the load_model method of the Model_Finder class
+2023-10-27/22:19:06		Entered the find_correct_model_file method of the File_Operation class
+2023-10-27/22:19:06		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-27/22:19:06		Entered the load_model method of the File_Operation class
+2023-10-27/22:19:06		Model File LinearRegression0 loaded. Exited the load_model method of the Model_Finder class
+2023-10-27/22:19:06		Entered the find_correct_model_file method of the File_Operation class
+2023-10-27/22:19:06		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-27/22:19:06		Entered the load_model method of the File_Operation class
+2023-10-27/22:19:06		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2023-10-27/22:19:07		End of Prediction
